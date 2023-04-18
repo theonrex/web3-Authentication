@@ -4,8 +4,8 @@
 ` This is a website built with Next.js, firebase and Thirdweb SDK that allows users to login using their wallet address like metamask wallet address `
 
 ### Features
-- [x] Loging and Sign in with your cryptocurency wallet 
-- [x] Update your profile in realtime
+- [x] Login and Sign in with your cryptocurrency wallet
+- [x] Update your profile in real time
 
 
 
